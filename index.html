@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head profile="http://www.w3.org/2005/10/profile">
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="CTF CrossCTF competition capture the flag cyber information security cybersecurity Greyhat Greyhats Whitehat Whitehats SMU NUS Singapore ">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Grayscale - Start Bootstrap Theme</title>
+	<link rel="icon"
+		  type="image/ico"
+		  href="img/logo_large.ico">
+
+    <title>Cross CTF 2017</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,8 +30,8 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
     <![endif]-->
 
 </head>
@@ -61,10 +66,10 @@
                         <a class="page-scroll" href="#announcement">Announcements</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="#compdetail">Competition Details</a>
+                        <a class="page-scroll" href="#compdetail">Competition</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="#timeline">Timeline of Event</a>
+                        <a class="page-scroll" href="#timeline">Timeline</a>
                     </li>
 					<li>
                         <a class="page-scroll" href="#prizes">Prizes</a>
@@ -72,6 +77,9 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
+					<li>
+						<a class="page-scroll" href="http://tinyurl.com/crossctf"><i class="fa fa-pencil fa-fw"></i>Sign Up</a>
+					</li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -105,8 +113,10 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Welcome to Cross CTF 2017</h2>
-				<p>Cross CTF 2017 is a cyber security competition by SMU Whitehats & NUS Greyhats that will be held in (location here) on (date here). In the competition, student teams from various tertiary institutions will compete to solve challenges which are set by an independent body.</p>
-            </div>
+				<p>Cross CTF 2017 is a cyber security competition by SMU Whitehat Society & NUS Greyhats that will be held in Singapore Management University. </p>
+				<p>In the competition, student teams from various tertiary institutions will compete to solve challenges. Teams will compete in a 48 hour online qualifiers on the 13th-14th May and the qualifiying teams will compete in Singapore's first <b> 24 hour live attack-defense CTF </b> in the final stage on 17th-18th June.</p>
+				<h2>Are you ready?</h2>
+			</div>
         </div>
     </section>
 	
@@ -120,22 +130,35 @@
 				<br>
 				
 				<h3>Announcement #1</h3>
-				<p>Follow us on Facebook & Twitter</p>
+				<p>Follow us on Facebook & Twitter for the latest updates!</p>
 				
-				<a href="https://facebook.com/#" class="btn btn-default btn-lg">
+				<a href="https://www.facebook.com/CrossCTF/" class="btn btn-default btn-lg">
 					<i class="fa fa-facebook fa-fw"></i>
 					<span class="network-name">Facebook</span>
 				</a>
 				
-				<a href="https://twitter.com/#" class="btn btn-default btn-lg">
+				<a href="https://twitter.com/CrossCTF" class="btn btn-default btn-lg">
 					<i class="fa fa-twitter fa-fw"></i>
 					<span class="network-name">Twitter</span>
 				</a>
-				<!--
-				<h3>Announcement #2</h3>
+
+				<br>
 				<hr>
-				<p>This is announcement 2. blah blah blah....</p>
-				-->
+				<br><br>
+
+
+				<h3>Announcement #2</h3>
+
+				<p>Have a team of 3 already? Sign up for our competition now! </p>
+				<p>Signups end on <b>12th May 2017.</b></p>
+
+				<a href="http://tinyurl.com/crossctf/" class="btn btn-default btn-lg">
+					<i class="fa fa-pencil fa-fw"></i>
+					<span class="network-name">Sign Up</span>
+				</a>
+				<br>
+				<hr>
+
             </div>
         </div>
     </section>
@@ -162,12 +185,18 @@
 						<h3 class="panel-title">Rules of X-CTF</h3>
 					</div>
 					<div class="panel-body text-muted">
-						<p>During the CTF,</p>
+						<p>During the CTF</p>
 						<ul class="list-group">
 							<li class="list-group-item">Do not attack the PCs of other competitors.</li>
 							<li class="list-group-item">Do not attack the scoring server.</li>
 							<li class="list-group-item">Do not attack anything outside of the CTF environment.</li>
-							<li class="list-group-item">etc...</li>
+							<li class="list-group-item"> Do not delete or modify flags. </li>
+							<li class="list-group-item"> ARP poisoning or any form of man-in-the-middle attack is prohibited. This action is subject to disqualification. </li>
+							<li class="list-group-item"> Sharing flags or solutions is prohibited. This action is subject to disqualification. </li>
+							<li class="list-group-item"> Brute-forcing flags will not be tolerated. </li>
+							<li class="list-group-item"> Denial of service attacks on any challenge will not be tolerated, unless the challenge calls for such an attack. </li>
+							<li class="list-group-item"> If you find any bug in the system, let us know. We might give you some bonus points. </li>
+							<li class="list-group-item"> Organizers' decision is final. </li>
 						</ul>
 					</div>
 				</div>
@@ -334,15 +363,41 @@
 				<hr>
 				<br>
 				<!--<div class="panel">-->
+				<div id="platinum-sponsor">
+					<h2>Platinum Sponsors</h2>
 					<div class="row">
-						<a href="https://sis.smu.edu.sg/"><img style="width:40%" src="img/smu_sis.png" alt="SMU School of Information Systems" /></a>
+						<a href="https://www.tech.gov.sg/"><img style="width:65%" src="img/govtech.jpg" alt="Government Technology Agency of Singapore (GovTech)" /></a>
+						<p>  </p>
+						<a href="https://www.vantagepoint.sg/"><img style="width:85%" src="img/vantagepoint.jpg" alt="VantagePoint" /></a>
 					</div>
+					<hr>
 					<br><br><br>
+				</div>
+
+				<div id="gold-sponsor">
+					<h2>Gold Sponsors</h2>
 					<div class="row">
-						<a href="http://www.aiscube.com/index.html"><img style="width:25%; display:inline" src="img/ais_cube.png" alt="AIS Cube" /></a>
-						&emsp;&emsp;&emsp;
-						<a href="https://www.edgis-security.org/"><img style="width:35%;display:inline-block" src="img/edgis.png" alt="Edgis" /></a>
+						<a href="https://www.csit.gov.sg/"><img style="width:60%; padding-left: 20px;padding-right: 20px" src="img/csit.jpg" alt="Centre for Strategic Infocomm Technologies" /></a>
+						<p>  </p>
+						<a href="http://cybertestsystems.com/"><img style="width:60%;padding-left: 20px;padding-right: 20px" src="img/cybertestsystems.png" alt="Cyber Test Systems" /></a>
 					</div>
+					<hr>
+					<br><br><br>
+				</div>
+
+				<div id="supported-by">
+					<br>
+					<h2>Supported By</h2>
+						<div class="row">
+							<a href="http://www.aiscube.com/index.html"><img style="width:15%; display:inline" src="img/ais_cube.png" alt="AIS Cube" /></a>
+							&emsp;&emsp;&emsp;
+							<a href="https://www.edgis-security.org/"><img style="width:25%;display:inline-block" src="img/edgis.png" alt="Edgis" /></a>
+							&emsp;&emsp;
+							<a href="https://sis.smu.edu.sg/"><img style="width:20%; display:inline-block" src="img/smu_sis.png" alt="SMU School of Information Systems" /></a>
+						</div>
+
+				</div>
+
 				<!--</div>-->
 			</div>
         </div>
@@ -353,7 +408,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact Us</h2>
-                <p>You can find out more about NUS Greyhats <a href="http://nusgreyhats.org">here</a> <br> and SMU Whitehats Society <a href="http://whitehats.smusa.sg/">here</a>. <br>If you have any enquiries or requests, feel free to <a href="mailto:issig@sa.smu.edu.sg">email</a> us.</p>
+                <p>You can find out more about NUS Greyhats <a href="http://nusgreyhats.org">here</a> <br> and SMU Whitehat Society <a href="http://whitehats.smusa.sg/">here</a>. <br>If you have any enquiries or requests, feel free to <a href="mailto:issig@sa.smu.edu.sg">email</a> us.</p>
 				
 				<br><br>
                 
@@ -370,8 +425,8 @@
 			<a href="http://www.comp.nus.edu.sg"><img style="width:40%;padding:0px;" src="img/soc.png" alt="NUS School of Computing" /></a>
 			<a href="https://sis.smu.edu.sg/"><img style="width:30%;padding:0px;" src="img/smu_sis.png" alt="SMU School of Information Systems" /></a>-->
 			<a href="http://whitehats.smusa.sg/"><img style="width:20%" src="img/wh.png" alt="SMU Whitehats Society" /></a>
-			<a href="http://nusgreyhats.org/"><img src="img/gh.png" alt="NUS Greyhats" /></a>
-            <!--<p>Copyright &copy; Your Website 2016</p>-->
+			<a href="http://nusgreyhats.org/"><img style="width:20%" src="img/gh_white.png" alt="NUS Greyhats" /></a>
+            <p>Copyright &copy; Whitehat Society 2017</p>
         </div>
     </footer>
 
