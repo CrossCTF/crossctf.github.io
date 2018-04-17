@@ -7,11 +7,11 @@ description: "Register for Cr055CTF2018"
 
 ## To Join Cr055CTF2018
 
-
+##### [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScjJIYTcO19_9DL-h5Vlz_1twbyBUSJ9Az0npE_hM7d_Bbgrg/viewform?usp=sf_link)
 
 You and/or your team will have to :
 
-	-	Form a team of 1 to 4 particiapnts
+	-	Form a team of 3 particiapnts
 
 		-	Each team must have at least 2 Singapore Citizens
 		-	Each team can only have 2 or three participants
@@ -37,9 +37,8 @@ You and/or your team will have to :
 	HOWEVER, If you and your team are not comfortable, do drop us a message or 
 	indicate during the registration!
 
-### Sign up with this [__link__](https://docs.google.com/forms/d/e/1FAIpQLScjJIYTcO19_9DL-h5Vlz_1twbyBUSJ9Az0npE_hM7d_Bbgrg/viewform?usp=sf_link)
 
-After registration, You and your team will receive a Goodie Bag, Event T-shirt, Event Landyards and some additional free stuff when you come for the qualifiers.
+
 
 ### The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the compeition.
 
@@ -61,6 +60,8 @@ After registration, You and your team will receive a Goodie Bag, Event T-shirt, 
 	CTF Duration : 24 Hrs (2.30pm to 2.30pm)
 	CrossVillage Track : 5.5 Hrs (9 am to 3.00 pm)
 	LOCATION : SgInnovate’s BASH @ One-north
+
+**Finalists will receive a Goodie Bag, Event T-shirt, Event Landyards and some additional free stuff!!**
 
 
 ---
