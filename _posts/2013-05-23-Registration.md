@@ -25,8 +25,8 @@ You and/or your team will have to :
 #### DISCLAIMER
 
 	We will be giving your contacts to the event sponsors if you choose to do so. 
-	HOWEVER, If you and your team are not comfortable, do drop us a message or 
-	indicate during the registration!
+	HOWEVER, If you and your team are not comfortable with photography during the finals, 
+	do drop us a message or indicate during the registration!
 
 
 ### The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the competition.
