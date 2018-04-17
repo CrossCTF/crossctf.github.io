@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-# SPECIAL THANKS TO:
+# SPECIAL THANKS TO FOLLOWING COLLABORATORS:
 
 ---
 
