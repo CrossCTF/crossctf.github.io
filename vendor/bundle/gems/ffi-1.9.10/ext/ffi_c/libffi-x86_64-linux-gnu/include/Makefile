@@ -15,7 +15,7 @@
 
 
 
-VPATH = /vendor/bundle/gems/ffi-1.9.10/ext/ffi_c/libffi/include
+VPATH = ./vendor/bundle/gems/ffi-1.9.10/ext/ffi_c/libffi/include
 pkgdatadir = $(datadir)/libffi
 pkgincludedir = $(includedir)/libffi
 pkglibdir = $(libdir)/libffi
