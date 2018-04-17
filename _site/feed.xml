@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-17T15:20:23+08:00</updated><id>/</id><title>W31c0m3 t0 Cr055CTF2018</title><subtitle>Are you ready to hack?</subtitle><entry><title>0x00 Introduction</title><link href="/Introduction/" rel="alternate" type="text/html" title="0x00 Introduction" /><published>2013-05-24T00:00:00+08:00</published><updated>2013-05-24T00:00:00+08:00</updated><id>/Introduction</id><content type="html" xml:base="/Introduction/">&lt;p&gt;CrossCTF is a cyber security competition organized by NTU with collaboration with NUS Greyhats and SMU Whitehats. This also provides a platform for participants to hack safely in Singapore. The other reason is to promote Cyber Security Capture-The-Flag Compeitions in Singapore.&lt;/p&gt;
+
+&lt;p&gt;Here is a short video which covers on what CTF is:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8ev9ZX9J45A&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;text-align: center;font-size: 1.4em;&quot;&gt;
+	&lt;h&gt;&lt;strong&gt;Are you ready to H4cK?&lt;/strong&gt;&lt;/h&gt;	&lt;p&gt;If your answer is yes, then continue down to view the details!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;</content><category term="sample post" /><summary>CrossCTF is a cyber security competition organized by NTU with collaboration with NUS Greyhats and SMU Whitehats. This also provides a platform for participants to hack safely in Singapore. The other reason is to promote Cyber Security Capture-The-Flag Compeitions in Singapore.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;background&quot;=&gt;&quot;triangular.png&quot;}" /></entry><entry><title>0x01 Registration And Details</title><link href="/Registration/" rel="alternate" type="text/html" title="0x01 Registration And Details" /><published>2013-05-23T00:00:00+08:00</published><updated>2013-05-23T00:00:00+08:00</updated><id>/Registration</id><content type="html" xml:base="/Registration/">&lt;h2 id=&quot;to-join-cr055ctf2018&quot;&gt;To Join Cr055CTF2018&lt;/h2&gt;
+
+&lt;h5 id=&quot;click-here-to-registerhttpsdocsgooglecomformsde1faipqlscjjiytco199dl-h5vlz1twbybusj9az0npehm7dbbgrgviewformuspsflink&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScjJIYTcO19_9DL-h5Vlz_1twbyBUSJ9Az0npE_hM7d_Bbgrg/viewform?usp=sf_link&quot;&gt;CLICK HERE TO REGISTER&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;You and/or your team will have to :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-	Form a team of 3 particiapnts
+
+	-	Each team must have at least 2 Singapore Citizens
+	-	Each team can only have 2 or three participants
+	- 	All participants in the team are to be of the 
+		same current/future school
+
+-	Sign up through ????? by **29 APRIL 2018**
+
+-	Go through a compulsary qualifier.
+
+FINALISTS	
+	- NRIC/ID
+	- FULL NAME as in NRIC/Passport/Driver&#39;s license
+	- Nationality
+	- School they are representing
+	- Shirt Size
+	- Food Preferences
+	- Proof of school placement (E.g. Student card)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;disclaimer&quot;&gt;DISCLAIMER&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;We will be giving your contacts to the event sponsors by default. 
+HOWEVER, If you and your team are not comfortable, do drop us a message or 
+indicate during the registration!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;the-winners-will-receive-cash-prizes-winners-will-be-decided-based-on-final-score-earned-by-the-end-of-the-compeition&quot;&gt;The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the compeition.&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Position&lt;/th&gt;
+      &lt;th&gt;Cash Prizes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1st&lt;/td&gt;
+      &lt;td&gt;$5,000 + Gold Medals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2nd&lt;/td&gt;
+      &lt;td&gt;$4,000 + Silver Medals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3rd&lt;/td&gt;
+      &lt;td&gt;$2,000 + Bronze Medals&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;dates-of-competition&quot;&gt;Dates of Competition:&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Qualifier Round&lt;/td&gt;
+      &lt;td&gt;19-20 May 2018&lt;/td&gt;
+      &lt;td&gt;(Sat-Sun)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Final Round&lt;/td&gt;
+      &lt;td&gt;16-17 June 2018&lt;/td&gt;
+      &lt;td&gt;(Sat-Sun)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;more-details&quot;&gt;More Details:&lt;/h5&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;CTF Duration : 24 Hrs (2.30pm to 2.30pm)
+CrossVillage Track : 5.5 Hrs (9 am to 3.00 pm)
+LOCATION : SgInnovate’s BASH @ One-north
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Finalists will receive a Goodie Bag, Event T-shirt, Event Landyards and some additional free stuff!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content><summary>To Join Cr055CTF2018</summary></entry><entry><title>0x02 Annoucements</title><link href="/Announcement/" rel="alternate" type="text/html" title="0x02 Annoucements" /><published>2013-05-23T00:00:00+08:00</published><updated>2013-05-23T00:00:00+08:00</updated><id>/Announcement</id><content type="html" xml:base="/Announcement/">&lt;h2 id=&quot;more-to-come&quot;&gt;MORE TO COME&lt;/h2&gt;</content><summary>MORE TO COME</summary></entry><entry><title>0x03 Challenges</title><link href="/Potential-Challeges/" rel="alternate" type="text/html" title="0x03 Challenges" /><published>2013-05-22T00:00:00+08:00</published><updated>2013-05-22T00:00:00+08:00</updated><id>/Potential-Challeges</id><content type="html" xml:base="/Potential-Challeges/">&lt;p&gt;Potential Categories with some resources&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.udemy.com/reverse-engineering-tutorial/&quot;&gt;Reverse Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/&quot;&gt;Cryptography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Miscellaneous&lt;/li&gt;
+  &lt;li&gt;Sanity&lt;/li&gt;
+  &lt;li&gt;Pwnables&lt;/li&gt;
+  &lt;li&gt;Web&lt;/li&gt;
+  &lt;li&gt;Forensics&lt;/li&gt;
+  &lt;li&gt;Mobile&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;How you will receive the challenge:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Via Raspberry pi with challenges loaded in it.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><summary>Potential Categories with some resources</summary></entry><entry><title>0x04 Cr055CTF2018 Sponsors</title><link href="/SupportandSponsors/" rel="alternate" type="text/html" title="0x04 Cr055CTF2018 Sponsors" /><published>2013-05-21T00:00:00+08:00</published><updated>2013-05-21T00:00:00+08:00</updated><id>/SupportandSponsors</id><content type="html" xml:base="/SupportandSponsors/">&lt;p1&gt;We would like to thank the sponsors for their contribution in making this CROSSCTF 2018 possible!&lt;/p1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure style=&quot;text-align: center;&quot;&gt;
+	&lt;a href=&quot;https://www.vantagepoint.sg/&quot;&gt;&lt;img style=&quot;width: 80%;&quot; src=&quot;../images/vintage.png&quot; alt=&quot;Vintage Logo&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;https://www.vantagepoint.sg/&quot;&gt;Vantage Point&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;text-align: center;&quot;&gt;
+	&lt;a href=&quot;http://cybertestsystems.com/&quot;&gt;&lt;img style=&quot;width: 80%;&quot; src=&quot;../images/logo_cybertestsystem.png&quot; alt=&quot;logo_cybertestsystem.png&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://cybertestsystems.com/&quot;&gt;Cyber Test Systems&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;text-align: center;&quot;&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;../images/3Merged_logos.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.mha.gov.sg/&quot;&gt;Ministry Of Home Affairs&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://ccss.usc.edu/&quot;&gt;Centre for Cyber Security Studies&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.tech.gov.sg/&quot;&gt;GovTech Singapore&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot; style=&quot;text-align: center;&quot;&gt;
+	&lt;a href=&quot;https://www.dso.org.sg/&quot;&gt;&lt;img style=&quot;width: 45%;&quot; src=&quot;../images/DSO_Logo_Full_Colour.jpg&quot; alt=&quot;DSO LOGO&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;https://www.sginnovate.com/&quot;&gt;&lt;img style=&quot;width: 45%;&quot; src=&quot;../images/SGinnovate-logo.png&quot; alt=&quot;SGinnovate Logo&quot; /&gt;&lt;/a&gt;
+	
+	&lt;figcaption&gt;&lt;a href=&quot;https://www.dso.org.sg/&quot;&gt;DSO National Laboratory&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.sginnovate.com/&quot;&gt;SGInnovate&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary>We would like to thank the sponsors for their contribution in making this CROSSCTF 2018 possible!</summary></entry></feed>
