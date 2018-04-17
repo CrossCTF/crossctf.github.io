@@ -18,29 +18,18 @@ You and/or your team will have to :
 		- 	All participants in the team are to be of the 
 			same current/future school
 
-	-	Sign up through ????? by **29 APRIL 2018**
+	-	Sign up  by **29 APRIL 2018**
 
-	-	Go through a compulsary qualifier.
-
-	FINALISTS	
-		- NRIC/ID
-		- FULL NAME as in NRIC/Passport/Driver's license
-		- Nationality
-		- School they are representing
-		- Shirt Size
-		- Food Preferences
-		- Proof of school placement (E.g. Student card)
+	-	Go through a compulsary online qualifier.
 
 #### DISCLAIMER
 
-	We will be giving your contacts to the event sponsors by default. 
+	We will be giving your contacts to the event sponsors if you choose to do so. 
 	HOWEVER, If you and your team are not comfortable, do drop us a message or 
 	indicate during the registration!
 
 
-
-
-### The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the compeition.
+### The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the competition.
 
 |Position|Cash Prizes|
 |---|---|
