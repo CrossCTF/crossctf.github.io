@@ -1,42 +1,396 @@
----
-layout: post-index
-title: CROSSCTF-2018
-description: "<CTF{Capture The Flag 2018}"
-tags: [Jekyll, theme, themes, responsive, blog, modern]
-comments: false
-image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
----
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>CROSSCTF-2018 &#8211; W31c0m3 t0 Cr055CTF2018</title>
+<meta name="description" content="<CTF{Capture The Flag 2018}">
+<meta name="keywords" content="Jekyll, theme, themes, responsive, blog, modern">
 
-{% for post in paginator.posts %}
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="CROSSCTF-2018">
+<meta property="og:description" content="<CTF{Capture The Flag 2018}">
+<meta property="og:url" content="/">
+<meta property="og:site_name" content="W31c0m3 t0 Cr055CTF2018">
+
+
+
+
+
+<link rel="canonical" href="/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="W31c0m3 t0 Cr055CTF2018 Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+
+
+</head>
+
+<body id="post-index" class="feature">
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+				<li>
+					<img src="/images/NTUOFFSECLOGO.jpg" alt="CROSSCTF2k18 photo" class="author-photo">
+					<h4>CROSSCTF2k18</h4>
+					<p>Organizing Team</p>
+				</li>
+				<li><a href="/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				<li>
+					<a href="mailto:ntu.offsec@gmail.com"><i class="fa fa-fw fa-envelope"></i> Email</a>
+				</li>
+				
+				<li>
+					<a href="https://facebook.com/ntu.offsec"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
+				</li>
+				
+				
+				<li>
+					<a href="https://github.com/ntu-offsec"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				
+				
+				
+			</ul><!-- /.dl-submenu -->
+		</li>
+		<li>
+			<a href="/posts/">Posts</a>
+			<!--<ul class="dl-submenu">
+				<li><a href="/posts/">All Posts</a></li>
+			</ul>
+		-->
+		</li>
+		
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
+
+
+<div class="entry-header">
+  <div class="image-credit">Image source: <a href="http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/">dargadgetz</a></div><!-- /.image-credit -->
+  
+    <div class="entry-image">
+      <img src="/images/abstract-1.jpg" alt="CROSSCTF-2018">
+    </div><!-- /.entry-image -->
+  
+  <div class="header-title">
+    <div class="header-title-wrap">
+      <h1>W31c0m3 t0 Cr055CTF2018</h1>
+      <h2>CROSSCTF-2018</h2>
+    </div><!-- /.header-title-wrap -->
+  </div><!-- /.header-title -->
+</div><!-- /.entry-header -->
+
+<div id="main" role="main">
+  
 <article class="hentry">
   <header>
-    {% if post.image.feature %}
-      <div class="entry-image-index">
-        <a href="{{ site.urxl }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
-      </div><!-- /.entry-image -->
-    {% endif %}
+    
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
-      {% if site.reading_time %}
+      <span class="entry-date date published updated"><time datetime="2013-05-24T00:00:00+08:00"><a href="/Introduction/">May 24, 2013</a></time></span><span class="author vcard"><span class="fn"><a href="/about/" title="About CROSSCTF2k18">CROSSCTF2k18</a></span></span>
+      
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
-        {% include read-time-index.html %}
+        
       </span><!-- /.entry-reading-time -->
-      {% endif %}
+      
     </div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
+    
+      <h1 class="entry-title"><a href="/Introduction/" rel="bookmark" title="0x00 Introduction" itemprop="url">0x00 Introduction</a></h1>
+    
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    <p>CrossCTF is a cyber security competition organized by NTU jointly with NUS Greyhats. This also provides a platform for participants to hack safely in Singapore. The other reason is to promote Cyber Security Capture-The-Flag Compeitions in Singapore.</p>
+
+<p>Here is a short video which covers on what CTF is:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ev9ZX9J45A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<div style="text-align: center;font-size: 1.4em;">
+	<h><strong>Are you ready to H4cK?</strong></h>	<p>If your answer is yes, then continue down to view the details!</p>
+</div>
+
+<hr />
+
+
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
-{% endfor %}
 
-{% include pagination.html %}
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2013-05-23T00:00:00+08:00"><a href="/Registration/">May 23, 2013</a></time></span><span class="author vcard"><span class="fn"><a href="/about/" title="About CROSSCTF2k18">CROSSCTF2k18</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="/Registration/" rel="bookmark" title="0x01 Registration And Details" itemprop="url">0x01 Registration And Details</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <h2 id="to-join-cr055ctf2018">To Join Cr055CTF2018</h2>
+
+<p>You and/or your team will have to :</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>-	Form a team of 1 to 4 particiapnts
+
+	-	Each team must have at least 2 Singapore Citizens
+	-	Each team can only have 2 or three participants
+	- 	All participants in the team are to be of the 
+		same current/future school
+
+-	Sign up through ????? by **29 APRIL 2018**
+
+-	Go through a compulsary qualifier.
+
+FINALISTS	
+	- NRIC/ID
+	- FULL NAME as in NRIC/Passport/Driver's license
+	- Nationality
+	- School they are representing
+	- Shirt Size
+	- Food Preferences
+	- Proof of school placement (E.g. Student card)
+</code></pre>
+</div>
+
+<h4 id="disclaimer">DISCLAIMER</h4>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>We will be giving your contacts to the event sponsors by default. 
+HOWEVER, If you and your team are not comfortable, do drop us a message or 
+indicate during the registration!
+</code></pre>
+</div>
+
+<h3 id="sign-up-with-this-linkhttpsdocsgooglecomformsde1faipqlscjjiytco199dl-h5vlz1twbybusj9az0npehm7dbbgrgviewformuspsflink">Sign up with this <a href="https://docs.google.com/forms/d/e/1FAIpQLScjJIYTcO19_9DL-h5Vlz_1twbyBUSJ9Az0npE_hM7d_Bbgrg/viewform?usp=sf_link"><strong>link</strong></a></h3>
+
+<p>After registration, You and your team will receive a Goodie Bag, Event T-shirt, Event Landyards and some additional free stuff when you come for the qualifiers.</p>
+
+<h3 id="the-winners-will-receive-cash-prizes-winners-will-be-decided-based-on-final-score-earned-by-the-end-of-the-compeition">The winners will receive cash prizes. Winners will be decided based on final score earned by the end of the compeition.</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Cash Prizes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st</td>
+      <td>$5,000 + Gold Medals</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>$4,000 + Silver Medals</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>$2,000 + Bronze Medals</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="dates-of-competition">Dates of Competition:</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Qualifier Round</td>
+      <td>19-20 May 2018</td>
+      <td>(Sat-Sun)</td>
+    </tr>
+    <tr>
+      <td>Final Round</td>
+      <td>16-17 June 2018</td>
+      <td>(Sat-Sun)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h5 id="more-details">More Details:</h5>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>CTF Duration : 24 Hrs (2.30pm to 2.30pm)
+CrossVillage Track : 5.5 Hrs (9 am to 3.00 pm)
+LOCATION : SgInnovate’s BASH @ One-north
+</code></pre>
+</div>
+
+<hr />
+
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2013-05-23T00:00:00+08:00"><a href="/Announcement/">May 23, 2013</a></time></span><span class="author vcard"><span class="fn"><a href="/about/" title="About CROSSCTF2k18">CROSSCTF2k18</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="/Announcement/" rel="bookmark" title="0x02 Annoucements" itemprop="url">0x02 Annoucements</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <h2 id="more-to-come">MORE TO COME</h2>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2013-05-22T00:00:00+08:00"><a href="/Potential-Challeges/">May 22, 2013</a></time></span><span class="author vcard"><span class="fn"><a href="/about/" title="About CROSSCTF2k18">CROSSCTF2k18</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="/Potential-Challeges/" rel="bookmark" title="0x03 Challenges" itemprop="url">0x03 Challenges</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p>Potential Categories with some resources</p>
+
+<ol>
+  <li><a href="https://blog.udemy.com/reverse-engineering-tutorial/">Reverse Engineering</a></li>
+  <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-875-cryptography-and-cryptanalysis-spring-2005/">Cryptography</a></li>
+  <li>Miscellaneous</li>
+  <li>Sanity</li>
+  <li>Pwnables</li>
+  <li>Web</li>
+  <li>Forensics</li>
+  <li>Mobile</li>
+</ol>
+
+<p>How you will receive the challenge:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Via Raspberry pi with challenges loaded in it.
+</code></pre>
+</div>
+
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2013-05-21T00:00:00+08:00"><a href="/Awards-and-prizes/">May 21, 2013</a></time></span><span class="author vcard"><span class="fn"><a href="/about/" title="About CROSSCTF2k18">CROSSCTF2k18</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="/Awards-and-prizes/" rel="bookmark" title="0x04 Cr055CTF2018 Sponsors" itemprop="url">0x04 Cr055CTF2018 Sponsors</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p1>We would like to thank the sponsors for their contribution in making this CROSSCTF 2018 possible!</p1>
+<p><br /></p>
+
+<figure style="text-align: center;">
+	<img style="width: 80%;" src="../images/vintage.png" alt="Vintage Logo" />
+	<figcaption>Vintage Point</figcaption>
+</figure>
+<figure style="text-align: center;">
+	<img src="../images/3Merged_logos.png" alt="" />
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title=""></a>Ministry Of Home Affairs<br />Centre for Cyber Security Studies<br />GovTech Singapore</figcaption>
+</figure>
+
+<p><br /></p>
+
+<figure class="half" style="text-align: center;">
+	<img style="width: 45%;" src="../images/DSO_Logo_Full_Colour.jpg" alt="DSO LOGO" />
+	<img style="width: 45%;" src="../images/SGinnovate-logo.png" alt="" />
+	
+	<figcaption>DSO National Laboratory <br />SGInnovate</figcaption>
+</figure>
+<figure style="text-align: center;">
+	<img style="width: 50%;" src="../images/logo_cybertestsystem.png" alt="logo_cybertestsystem.png" />
+	<figcaption>Cyber Test Systems</figcaption>
+</figure>
+
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+
+
+
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>&copy; 2018 CROSSCTF2k18. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.</span>
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+
+
+          
+
+</body>
+</html>
