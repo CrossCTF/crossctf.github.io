@@ -13,14 +13,13 @@ You and/or your team will have to :
 
 	-	Form a team of 3 particiapnts
 
-		-	Each team must have at least 2 Singapore Citizens
-		-	Each team can only have 2 or three participants
-		- 	All participants in the team are to be of the 
-			same current/future school
+		-	Each team can only have 2 or 3 participants
+		- 	All participants in the team are to be from a school 
+			of higher learning in Singapore
 
-	-	Sign up  by **29 APRIL 2018**
+	-	Sign up by **1 May 2018**
 
-	-	Go through a compulsary online qualifier.
+	-	Go through a compulsory online qualifier.
 
 #### DISCLAIMER
 
@@ -50,7 +49,7 @@ You and/or your team will have to :
 	CrossVillage Track : 5.5 Hrs (9 am to 3.00 pm)
 	LOCATION : SgInnovate’s BASH @ One-north
 
-**Finalists will receive a Goodie Bag, Event T-shirt, Event Landyards and some additional free stuff!!**
+**Finalists will receive a Goodie Bag, Event T-shirt, Event Lanyards and some additional free stuff!!**
 
 
 ---
