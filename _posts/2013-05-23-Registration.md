@@ -13,7 +13,7 @@ You and/or your team will have to :
 
 	-	Form a team of 3 particiapnts
 
-		-	Each team can only have 2 or 3 participants
+		-	Each team can only have 3 participants
 		- 	All participants in the team are to be from a institute 
 			of higher learning in Singapore
 
