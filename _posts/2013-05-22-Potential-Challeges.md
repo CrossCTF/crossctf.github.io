@@ -16,7 +16,3 @@ Potential Categories with some resources
 7. Forensics
 8. Mobile
 
-How you will receive the challenge:
-
-	Via Raspberry pi with challenges loaded in it.
-
