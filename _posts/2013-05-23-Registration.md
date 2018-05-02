@@ -17,7 +17,7 @@ You and/or your team will have to :
 		- 	All participants in the team are to be from a institute 
 			of higher learning in Singapore
 
-	-	Sign up by **1 May 2018**
+	-	Sign up by **10 May 2018**
 
 	-	Go through a compulsory online qualifier.
 
