@@ -8,8 +8,11 @@ description: "Updates on cr055CTF2018"
 17 May 2018
 
 CrossCTF is a competition between schools. It is designed to foster healthy competition between the various educational instutions in Singapore. Traditionally, a Champion’s Trophy has and will continue to be passed to the winning schools  of the year.
+
 In the light of the above, we have to make clear the constraint that the members in a team have to be currently in the same school to adequately represent their institution.
+
 This clarification of the rule will affect teams who are recent graduates of their schools and are no longer holding valid matriculation cards. Letters of acceptance/placing for future admittance will no longer be accepted.
+
 
 15 May 2018
 
