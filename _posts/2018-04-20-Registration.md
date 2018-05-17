@@ -7,7 +7,7 @@ description: "Register for Cr055CTF2018"
 
 ## To Join Cr055CTF2018
 
-##### [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScjJIYTcO19_9DL-h5Vlz_1twbyBUSJ9Az0npE_hM7d_Bbgrg/viewform?usp=sf_link)
+##### <b>REGISTRATION IS CLOSED<b/>
 
 You and/or your team will have to :
 
