@@ -4,6 +4,10 @@ title: 0x02 Annoucements
 description: "Updates on cr055CTF2018"
 
 ---
+18 May 2018
+
+Qualifier will start at 1pm (UTC+08:00) on 19 May 2018 (Saturday).
+It will end at 1pm on 21 May (Monday) for a total of 48 hours.
 
 17 May 2018
 
