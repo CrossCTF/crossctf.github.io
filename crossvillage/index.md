@@ -13,7 +13,7 @@ comments: false
 
 ## Overview
 
-**Anyone** is welcomed to register for CrossVillage. You can register here: <a href="https://goo.gl/forms/20k5mPlGrlH9eBU03">https://goo.gl/forms/20k5mPlGrlH9eBU03</a>
+**Anyone** is welcomed to register for CrossVillage. You can register here: <a href="https://goo.gl/forms/20k5mPlGrlH9eBU03" target="_blank">https://goo.gl/forms/20k5mPlGrlH9eBU03</a>
 <br/><br/>
 Here are a list of the topics for the talks. More information can be found below.
 - E2EE Fuzzing for Mobile Applications
