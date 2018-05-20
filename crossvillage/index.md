@@ -23,7 +23,7 @@ Here are a list of the topics for the talks. More information can be found below
 <br/>
 <table>
 	<tr>
-		<td>**Information**</td>
+		<td><b>Information</b></td>
 		<td>&nbsp;</td>
 	</tr>
 	<tr>
