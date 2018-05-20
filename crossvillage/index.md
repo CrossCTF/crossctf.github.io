@@ -20,7 +20,22 @@ Here are a list of the topics for the talks. More information can be found below
 - Introduction to Lockpicking
 - Mobile App Analysis
 
-<br/><br/>
+<br/>
+<table>
+	<tr>
+		<td>Information</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>Date/Time:</td>
+		<td>17th June 2018, 9am - 4.30pm</td>
+	</tr>
+	<tr>
+		<td>Location:</td>
+		<td>SgInnovate’s BASH @ One-north</td>
+	</tr>
+</table>
+<br/>
 
 **Pizzas** will be provided for lunch and below is the schedule for CrossVillage on the day.
 
