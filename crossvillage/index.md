@@ -99,16 +99,16 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:<br/></td>
+		<td>Speaker Name:<br/><br/></td>
 		<td valign="top" >Sayed Hamzah</td>
 	</tr>
 	<tr>
 		<td valign="top" >Speaker Bio:</td>
-		<td>Currently working as a Security Consultant in Centurion Information Security, Hamzah has a vast amount experience in the areas of penetration testing for mobile/web applications and enterprise network infrastructures. His skillset is further complimented with his acquisition of Offensive Security certifications (OSCP, OSCE) and CREST Registered Tester (CRT) certifications. In addition, Hamzah has been actively involved in the establishment of the Offensive Cyber Security Club in Nanyang Technological University, providing training for club members who have a keen interest in vulnerability assessment and penetration testing as a career in the future.</td>
+		<td>Currently working as a Security Consultant in Centurion Information Security, Hamzah has a vast amount experience in the areas of penetration testing for mobile/web applications and enterprise network infrastructures. His skillset is further complimented with his acquisition of Offensive Security certifications (OSCP, OSCE) and CREST Registered Tester (CRT) certifications. In addition, Hamzah has been actively involved in the establishment of the Offensive Cyber Security Club in Nanyang Technological University, providing training for club members who have a keen interest in vulnerability assessment and penetration testing as a career in the future.<br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Company:</td>
-		<td><img src="/images/Centurion_logo.png" /><br/></td>
+		<td><img src="/images/Centurion_logo.png" height="100" width="100" /><br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Description:</td>
@@ -122,16 +122,16 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:<br/></td>
+		<td>Speaker Name:<br/><br/></td>
 		<td valign="top" >Fazli Sapuan</td>
 	</tr>
 	<tr>
 		<td valign="top" >Speaker Bio:</td>
-		<td>Locksmiths hate him. Check out this one weird trick he once saw someone on YouTube use to defeat a lock 9 out of 10 experts thought was adequately secure.</td>
+		<td>Locksmiths hate him. Check out this one weird trick he once saw someone on YouTube use to defeat a lock 9 out of 10 experts thought was adequately secure.<br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Company:</td>
-		<td>N/A<br/></td>
+		<td>N/A<br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Description:</td>
@@ -145,17 +145,17 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:<br/></td>
+		<td>Speaker Name:<br/><br/></td>
 		<td valign="top" >Tan Shu Ren</td>
 	</tr>
 	<tr>
 		<td valign="top" >Speaker Bio:</td>
 		<td>Shu Ren had been working at CSIT for the past 4 years as a mobile researcher. His area of work includes investigating threats on mobile OS, performing security assessments on mobile app through code audit and reverse engineering as well as to profile and evaluate security of mobile devices. <br/><br/>
-Prior to joining CSIT, Shu Ren studied Computer Science in USA, and work at Oracle Corporation for a while.</td>
+Prior to joining CSIT, Shu Ren studied Computer Science in USA, and work at Oracle Corporation for a while.<br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Company:</td>
-		<td><img src="/images/CSIT_logo.jpg" /><br/></td>
+		<td><img src="/images/CSIT_logo.jpg" /><br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Description:</td>
