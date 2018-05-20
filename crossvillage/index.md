@@ -108,7 +108,7 @@ Here are a list of the topics for the talks. More information can be found below
 	</tr>
 	<tr>
 		<td valign="top" >Company:</td>
-		<td><img src="/images/Centurion_logo.png" height="100" width="100" /><br/><br/></td>
+		<td><img src="/images/Centurion_logo.png" height="400" width="400" /><br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Description:</td>
