@@ -13,6 +13,10 @@ image:
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
+    {% if post.sponsor %}
+	<a href="#sponsor"></a>
+    {% endif %}
+
     {% if post.link %}
       <h1 class="entry-title"><i class="fa fa-bookmark"></i> {{ post.title }}</h1>
     {% else %}

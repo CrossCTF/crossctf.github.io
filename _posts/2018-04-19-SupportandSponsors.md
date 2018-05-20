@@ -2,6 +2,7 @@
 layout: post
 title: 0x04 Cr055CTF2018 Sponsors
 description: "Our sponsors and support"
+sponsor: yes
 
 ---
 
