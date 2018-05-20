@@ -99,19 +99,19 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:</td>
-		<td>Sayed Hamzah</td>
+		<td>Speaker Name:<br/></td>
+		<td valign="top" >Sayed Hamzah</td>
 	</tr>
 	<tr>
-		<td>Speaker Bio:</td>
+		<td valign="top" >Speaker Bio:</td>
 		<td>Currently working as a Security Consultant in Centurion Information Security, Hamzah has a vast amount experience in the areas of penetration testing for mobile/web applications and enterprise network infrastructures. His skillset is further complimented with his acquisition of Offensive Security certifications (OSCP, OSCE) and CREST Registered Tester (CRT) certifications. In addition, Hamzah has been actively involved in the establishment of the Offensive Cyber Security Club in Nanyang Technological University, providing training for club members who have a keen interest in vulnerability assessment and penetration testing as a career in the future.</td>
 	</tr>
 	<tr>
-		<td>Company:</td>
-		<td>Centurtion Information Security<br/><img src="/images/Centurion_logo.png" /></td>
+		<td valign="top" >Company:</td>
+		<td><img src="/images/Centurion_logo.png" /><br/></td>
 	</tr>
 	<tr>
-		<td>Description:</td>
+		<td valign="top" >Description:</td>
 		<td>End-to-end encryption, or E2EE in short, involves encrypting data on the mobile application before it gets sent to the application server. This is mainly to prevent any attackers to tamper or inject malicious payloads while the data is in transit, in the event of a man-in-the-middle attack. However, that does not mean that the application server is safe from such attacks even if E2EE is implemented.</td>
 	</tr>
 </table>
@@ -122,19 +122,19 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:</td>
-		<td>Fazli Sapuan</td>
+		<td>Speaker Name:<br/></td>
+		<td valign="top" >Fazli Sapuan</td>
 	</tr>
 	<tr>
-		<td>Speaker Bio:</td>
+		<td valign="top" >Speaker Bio:</td>
 		<td>Locksmiths hate him. Check out this one weird trick he once saw someone on YouTube use to defeat a lock 9 out of 10 experts thought was adequately secure.</td>
 	</tr>
 	<tr>
-		<td>Company:</td>
-		<td>N/A</td>
+		<td valign="top" >Company:</td>
+		<td>N/A<br/></td>
 	</tr>
 	<tr>
-		<td>Description:</td>
+		<td valign="top" >Description:</td>
 		<td>Physical locks are an important aspect of operations security that is often overlooked. In order to properly assess the amount of security a particular lock would provide, it would be helpful to learn its mechanism and the tried and tested methods of defeating them. (Or, you know, just just pick up the skill for fun)</td>
 	</tr>
 </table>
@@ -145,20 +145,20 @@ Here are a list of the topics for the talks. More information can be found below
 
 <table>
 	<tr>
-		<td>Speaker Name:</td>
-		<td>Tan Shu Ren</td>
+		<td>Speaker Name:<br/></td>
+		<td valign="top" >Tan Shu Ren</td>
 	</tr>
 	<tr>
-		<td>Speaker Bio:</td>
+		<td valign="top" >Speaker Bio:</td>
 		<td>Shu Ren had been working at CSIT for the past 4 years as a mobile researcher. His area of work includes investigating threats on mobile OS, performing security assessments on mobile app through code audit and reverse engineering as well as to profile and evaluate security of mobile devices. <br/><br/>
 Prior to joining CSIT, Shu Ren studied Computer Science in USA, and work at Oracle Corporation for a while.</td>
 	</tr>
 	<tr>
-		<td>Company:</td>
-		<td>CSIT<br/><img src="/images/CSIT_logo.jpg" /></td>
+		<td valign="top" >Company:</td>
+		<td><img src="/images/CSIT_logo.jpg" /><br/></td>
 	</tr>
 	<tr>
-		<td>Description:</td>
+		<td valign="top" >Description:</td>
 		<td>This year marks the 10 years in which Apple App Store and Google Play Store have been in business. Downloading, installing and using of mobile applications from these stores have become an integral part of our daily interactions with our mobile devices. However, do the users (us) really know what these mobile app offered us? Does the mobile app only offer the features that are stated upfront or are there any hidden "features" that the users (us) do not know about?</td>
 	</tr>
 </table>
