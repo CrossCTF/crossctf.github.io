@@ -15,8 +15,7 @@
 	perspective-origin: 50% 200%;
 
 	@media #{$medium} {
-		position: relative;
-		z-index: 9999;
+		position: fixed;
 		max-width: 175px;
 		top: 25px;
 		left: 25px;
