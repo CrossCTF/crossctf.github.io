@@ -1,28 +1,31 @@
 ---
 layout: page
-title: CrossVillage
+title: Welcome to CrossVillage
 image:
   feature: abstract-5.jpg
 comments: false
 ---
 
 
-# Welcome to CrossVillage
-> A side event of CrossCTF 2018 where we invited three speakers to give talks on 17th June 2018. More details on the talks can be found below.
+> CrossVillage is a side event of CrossCTF 2018 where we invited three speakers to give talks on **17th June 2018**. More details on the talks can be found below.
 
 ---
 
 ## Overview
 
-Anyone is welcomed to register for CrossVillage. You can register here: http://form
+**Anyone** is welcomed to register for CrossVillage. You can register here: http://form
 <br/><br/>
 Here are a list of the topics for the talks. More information can be found below.
 - E2EE Fuzzing for Mobile Applications
 - Introduction to Lockpicking
 - Mobile App Analysis
+
 <br/><br/>
-Pizzas will be provided for lunch and below is the schedule for CrossVillage on the day.
+
+**Pizzas** will be provided for lunch and below is the schedule for CrossVillage on the day.
+
 <br/>
+
 <table>
 	<tr>
 		<td>Time</td>
@@ -58,7 +61,7 @@ Pizzas will be provided for lunch and below is the schedule for CrossVillage on 
 	</tr>
 	<tr>
 		<td>3:30pm</td>
-		<td>Award Ceremy for Crossctf 2018</td>
+		<td>Award Ceremony for Crossctf 2018</td>
 	</tr>
 	<tr>
 		<td>4:30pm</td>
