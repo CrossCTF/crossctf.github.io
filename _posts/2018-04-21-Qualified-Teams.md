@@ -12,6 +12,8 @@ The following are the qualifying criteria:
 
 If the capacity of 20 teams are still not filled, we will include the highest scoring teams out of those eliminated teams until there are 20 teams.
 
+	1 additional slot has opened up hence the next highest scoring team was added.
+
 Here are the teams that have qualified for the competition:
 
 | No. | Team Name | Affiliation | Score|
@@ -24,18 +26,19 @@ Here are the teams that have qualified for the competition:
 | 6 | N0X10U5 G4S3S | Hwa Chong Institution | 5394 |
 | 7 | AJ Whitehats | Anderson Junior College | 5137 |
 | 8 | ret_to_ac | Anglo-Chinese School (Independent) | 5060 |
-| 9 | CrossCTF{Gh057_in_t3h_5he11} | NUS | 5004 |
-| 10 | balonglong | NUS | 5004 |
+| 9 | CrossCTF{Gh057_in_t3h_5he11} | NUS  | 5004 |
+| 10 | balonglong | NUS  | 5004 |
 | 11 | M3mes for Dr3ams | SUTD | 4988 |
 | 12 | Swamp Magicians | Ngee Ann Polytechnic | 4218 |
-| 13 | BoT | NUS | 4173 |
+| 13 | BoT | NUS  | 4173 |
 | 14 | A Bunch Of Losers | SMU | 4085 |
 | 15 | ACL | Nanyang Polytechnic | 3569 |
-| 16 | ScriptBaby | Ngee Ann Polytechnic | 3551 |
-| 17 | SAS Hackers | Singapore American School | 3429 |
-| 18 | SC4TT3R3D | Singapore Polytechnic | 3387 |
-| 19 | \x52\x45\x50 | NTU | 2677 |
-| 20 | Pylon | Eunoia Junior College | 1928 |
+| 16 | nu11ptr | NUS High School | 3563 |
+| 17 | ScriptBaby | Ngee Ann Polytechnic | 3551 |
+| 18 | SAS Hackers | Singapore American School | 3429 |
+| 19 | SC4TT3R3D | Singapore Polytechnic | 3387 |
+| 20 | \x52\x45\x50 | NTU | 2677 |
+| 21 | Pylon | Eunoia Junior College | 1928 |
 
 
 ---
