@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 0x01 Registration And Details
+title: 0x04 Registration And Details
 description: "Register for Cr055CTF2018"
 
 ---
@@ -53,7 +53,3 @@ You and/or your team will have to :
 
 
 ---
-
-
-
-

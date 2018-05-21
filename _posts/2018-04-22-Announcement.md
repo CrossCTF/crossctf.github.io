@@ -1,9 +1,13 @@
 ---
 layout: post
-title: 0x02 Annoucements
+title: 0x01 Annoucements
 description: "Updates on cr055CTF2018"
 
 ---
+21 May 2018
+
+CrossCTF Quals has ended.
+
 18 May 2018
 
 Qualifier will start at 1pm (UTC+08:00) on 19 May 2018 (Saturday).
