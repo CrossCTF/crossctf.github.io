@@ -37,7 +37,7 @@ Here are a list of the topics for the talks. More information can be found below
 </table>
 <br/>
 
-There will be attractive prizes won from the **lucky draw** at the end of CrossVillage.
+There will be attractive prizes to be won from the **lucky draw** at the end of CrossVillage.
 <br/>
 **Pizzas** will be provided for lunch and below is the schedule for CrossVillage on the day.
 
