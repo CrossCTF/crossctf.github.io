@@ -24,10 +24,10 @@ Here are the teams that have qualified for the competition:
 | 8 | ret_to_ac | Anglo-Chinese School (Independent) | 5060 |
 | 9 | CrossCTF{Gh057_in_t3h_5he11} | NUS | 5004 |
 | 10 | balonglong | NUS | 5004 |
-| 11 | M3mes for Dr3ams | Singapore University of Technology and Design | 4988 |
+| 11 | M3mes for Dr3ams | SUTD | 4988 |
 | 12 | Swamp Magicians | Ngee Ann Polytechnic | 4218 |
 | 13 | BoT | NUS | 4173 |
-| 14 | A Bunch Of Losers | Singapore Management University | 4085 |
+| 14 | A Bunch Of Losers | SMU | 4085 |
 | 15 | ACL | Nanyang Polytechnic | 3569 |
 | 16 | ScriptBaby | Ngee Ann Polytechnic | 3551 |
 | 17 | SAS Hackers | Singapore American School | 3429 |
