@@ -10,6 +10,8 @@ The following are the qualifying criteria:
 1. Passing the threshold. The threshold is is the median score (1928) out of all the teams 
 2. Top 2 teams from their respective schools 
 
+If the capacity of 20 teams are still not filled, we will include the highest scoring teams out of those eliminated teams until there are 20 teams.
+
 Here are the teams that have qualified for the competition:
 
 | No. | Team Name | Affiliation | Score|
