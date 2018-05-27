@@ -29,8 +29,9 @@ sponsor: yes
 <figure class="half" style="text-align: center;">
 	<a href="https://www.dso.org.sg/"><img style="width: 45%;" src="../images/DSO_Logo_Full_Colour.jpg" alt="DSO LOGO"></a>
 	<a href="https://www.sginnovate.com/"><img style="width: 45%;" src="../images/SGinnovate-logo.png" alt="SGinnovate Logo"></a>
+	<a href="https://ice71.sg/"><img style="width: 45%;" src="../images/ICE71_Final_Logo.jpg" alt="ICE71 Logo"></a>
 	
-	<figcaption><a href="https://www.dso.org.sg/">DSO National Laboratory</a><br><a href="https://www.sginnovate.com/">SGInnovate</a></figcaption>
+	<figcaption><a href="https://www.dso.org.sg/">DSO National Laboratory</a><br><a href="https://www.sginnovate.com/">SGInnovate</a><br><a href="https://ice71.sg/">ICE71</a></figcaption>
 </figure>
 
 
