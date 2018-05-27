@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 0x02 Qualified Team
+title: 0x02 Qualifying Team
 description: "Updates on cr055CTF2018"
 
 ---
