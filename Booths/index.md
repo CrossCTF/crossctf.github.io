@@ -2,7 +2,7 @@
 layout: page
 title: Booths Available
 image:
-  feature: banner.jpg
+  feature: banner2_iot.png
 comments: false
 ---
 ### Home Invasion 2018 - IoTCTF
