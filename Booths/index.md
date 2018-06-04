@@ -5,8 +5,6 @@ image:
   feature: abstract-5.jpg
 comments: false
 ---
-## Overview
-
 ### Home Invasion 2018 - IoTCTF
 
 <table>
