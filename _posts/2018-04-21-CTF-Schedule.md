@@ -21,6 +21,7 @@ description: "CrossCTF Schedule"
 |  |  |
 |:----------:|:-----------------------:|
 | 7:30am | Registration opens |
+| 12:00pm | Lunch |
 | 1:30pm | Scoreboard blackout |
 | 2:30pm | Competition Ends |
 | 3:00pm | Closing keynote speech |
