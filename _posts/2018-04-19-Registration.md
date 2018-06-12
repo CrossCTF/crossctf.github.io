@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 0x04 Registration And Details
+title: 0x05 Registration And Details
 description: "Register for Cr055CTF2018"
 
 ---

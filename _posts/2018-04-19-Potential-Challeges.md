@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 0x03 Challenges
+title: 0x04 Challenges
 description: "Possible CTF problems"
 
 ---

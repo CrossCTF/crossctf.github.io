@@ -19,5 +19,55 @@ comments: false
 </table>
 
 ---
-More to come
+### DSO
+
+<table>
+        <tr>
+                <td valign="top" >Organisation:</td>
+                <td><img src="/images/DSO_Logo_Full_Colour.jpg" height="400" width="400" /><br/><br/></td>
+        </tr>
+        <tr>
+                <td valign="top" >Description:</td>
+                <td>Come down and have a chat with us! We will be serving gourmet coffee!</td>
+        </tr>
+</table>
+---
+### Cyber Test System                       
+
+<table>
+        <tr>
+                <td valign="top" >Organisation:</td>
+                <td><img src="/images/logo_cybertestsystem.png" height="400" width="400" /><br/><br/></td>
+        </tr>
+        <tr>
+                <td valign="top" >Description:</td>
+                <td>Interested in Cyber Range? We will be showcasing our cyber range equipment at our booth!</td>
+        </tr>
+</table>
+---
+### ICE71
+
+<table>
+        <tr>
+                <td valign="top" >Organisation:</td>
+                <td><img src="/images/ICE71_Final_Logo.jpg" height="400" width="400" /><br/><br/></td>
+        </tr>
+        <tr>
+                <td valign="top" >Description:</td>
+                <td>Are you interesting in starting your own startup? Have an idea but do not know if it's marketable? Come and have a talk with us at our booth!</td>
+        </tr>
+</table>
+---
+### Infosec In The City
+
+<table>
+        <tr>
+                <td valign="top" >Organisation:</td>
+                <td><img src="" height="400" width="400" /><br/><br/></td>
+        </tr>
+        <tr>
+                <td valign="top" >Description:</td>
+                <td>Come on down to our booth to have a look at our badge given during the conference!</td>
+        </tr>
+</table>
 ---

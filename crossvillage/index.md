@@ -32,7 +32,7 @@ Here are a list of the topics for the talks. More information can be found below
 	</tr>
 	<tr>
 		<td>Location:</td>
-		<td>SgInnovate’s BASH @ One-north</td>
+		<td>#03-01, 79 Ayer Rajah Crescent, Singapore 139955 (Please take LIFT 3 to go up)<br/>SgInnovate’s BASH @ One-north</td>
 	</tr>
 </table>
 <br/>
