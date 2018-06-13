@@ -5,9 +5,8 @@ description: "CrossCTF Schedule"
 ---
 
 ---
-### DAY 1
 
-|  |  |
+| **DAY 1** |  |
 |:----------:|:-----------------------:|
 | 1:00pm | Registration opens |
 | 2:00pm | **Briefing/Opening keynote speech** |
@@ -16,11 +15,10 @@ description: "CrossCTF Schedule"
 | 11:59pm | Supper |
 
 ---
-### DAY 2
 
-|  |  |
+| **DAY 2** |  |
 |:----------:|:-----------------------:|
-| 7:30am | Registration opens |
+| 7:30am | Breakfast |
 | 12:00pm | Lunch |
 | 1:30pm | Scoreboard blackout |
 | 2:30pm | Competition Ends |
