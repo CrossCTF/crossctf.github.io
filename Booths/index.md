@@ -28,7 +28,7 @@ comments: false
         </tr>
         <tr>
                 <td valign="top" >Description:</td>
-                <td>Come down and have a chat with us! We will be serving gourmet coffee!</td>
+                <td>Catch us at our booth to try out our hardware challenge while enjoying gourmet coffee. See you there!</td>
         </tr>
 </table>
 ---
