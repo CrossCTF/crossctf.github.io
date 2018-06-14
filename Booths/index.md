@@ -63,7 +63,7 @@ comments: false
 <table>
         <tr>
                 <td valign="top" >Organisation:</td>
-                <td><img src="" height="400" width="400" /><br/><br/></td>
+                <td><img src="/images/infosec_in_the_city.png" height="400" width="400" /><br/><br/></td>
         </tr>
         <tr>
                 <td valign="top" >Description:</td>
