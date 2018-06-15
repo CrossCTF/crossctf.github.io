@@ -5,6 +5,10 @@ image:
   feature: banner2_iot.png
 comments: false
 ---
+## Map
+
+<img src="/images/map.png" alt="map" >
+
 ### Home Invasion 2018 - IoTCTF
 
 <table>
