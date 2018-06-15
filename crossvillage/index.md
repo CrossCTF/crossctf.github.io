@@ -36,7 +36,7 @@ Here are a list of the topics for the talks. More information can be found below
 	</tr>
 </table>
 <br/>
-<img src="../images/event_space.PNG"/>
+<img src="../images/map.png"/>
 <br/>
 There will be attractive prizes to be won from the **lucky draw** at the end of CrossVillage.
 <br/>
