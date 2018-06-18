@@ -156,7 +156,7 @@ Prior to joining CSIT, Shu Ren studied Computer Science in USA, and work at Orac
 	</tr>
 	<tr>
 		<td valign="top" >Company:</td>
-		<td><img src="/images/CSIT_logo.jpg" /><br/><br/></td>
+		<td><img src="/images/csit-logo.png" /><br/><br/></td>
 	</tr>
 	<tr>
 		<td valign="top" >Description:</td>
